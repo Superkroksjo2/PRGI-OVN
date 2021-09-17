@@ -1,2 +1,2 @@
 # PRGI-OVN
- Programmering 1-  Övningar
+ Programmering 1 - Övningar
