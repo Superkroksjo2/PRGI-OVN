@@ -5,5 +5,7 @@ area = x*x
 
 print(f"Omkretsen är {omkrets:.2f}, och arean är {area:.2f}")
 
-
+a = 12
+b = 12.0
+print(a == b)
 
