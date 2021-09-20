@@ -6,4 +6,4 @@ Svar = Tal1 * Tal1
 
 
 
-print (str(Svar)) 
+print (f'Svar:{Svar:0f}')
