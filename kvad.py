@@ -6,4 +6,4 @@ Svar = Tal1 * Tal1
 
 
 
-print (f'Svar:{Svar:0f}')
+print (f'Svar:{Svar:.2f}')
